@@ -1,0 +1,29 @@
+#!/bin/bash
+
+run_list() {
+
+cat <<EOT
+
+macOS Dotfiles - Andrew Gay - http://skewld.com
+
+Additional software to install
+
+Browsers:
+    Firefox
+    Google Chrome
+
+Development:
+    Filezilla
+    iTerm 2
+    ImageAlpha
+    ImageOptim
+    Yarn
+
+Other:
+    Alfred
+    Dropbox
+    Flux
+    VLC
+EOT
+
+}
